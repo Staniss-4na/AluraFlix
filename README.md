@@ -7,7 +7,7 @@
 - HTML
 - CSS
 
-##🌸  Notas e créditos 🌸
+## 🌸  Notas e créditos 🌸
 
 💮 Curso - Guilherme Silveira, instrutor e fundador da Alura.
 💮 Hamilton - Lin Manuel Miranda, diretor do musical.
