@@ -27,4 +27,4 @@
 💮 Curso - Guilherme Silveira, instrutor e fundador da Alura.
 💮 Hamilton - Lin Manuel Miranda, diretor do musical.
 
-![](https://wifflegif.com/gifs/48040-hello-kitty-kawaii-gif))
+![](https://media.tenor.com/zVvViQKqa0MAAAAj/psybirdb1oom.gif)
