@@ -25,7 +25,7 @@
 
 ## 🌸  Notas e créditos 🌸
 
-💮 Curso - Guilherme Silveira, instrutor e fundador da Alura.
-💮 Hamilton - Lin Manuel Miranda, diretor do musical.
+- Curso - Guilherme Silveira, instrutor e fundador da Alura.
+- Hamilton - Lin Manuel Miranda, diretor do musical.
 
 ![](https://media.tenor.com/zVvViQKqa0MAAAAj/psybirdb1oom.gif)
