@@ -7,21 +7,8 @@
 - HTML
 - CSS
 
-## 🌸 Músicas utilizadas 🌸
 
-💮 Alexander Hamilton
-💮 My Shot
-💮 You'll Be Back
-💮 Right Hand Man
-💮 Helpless
-💮 Satisfied
-💮 Non-Stop
-💮 The Room Where It Happens
-💮 Washington On Your Side
-💮 Burn
-💮 The Election Of 1800
-💮 The World Was Wide Enough
-💮
+## 💮Todas as músicas do teatro foram utilizadas!💮 
 
 ## 🌸  Notas e créditos 🌸
 
