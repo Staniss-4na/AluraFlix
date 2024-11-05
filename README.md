@@ -8,7 +8,23 @@
 - CSS
 
 
-## 💮Todas as músicas do teatro foram utilizadas!💮 
+## 🌸Foram utilizadas 14 músicas da peça!🌸
+
+💮 Alexander Hamilton
+💮 My Shot
+💮 Right Hand Man
+💮 Helpless
+💮 Satisfied
+💮 Non-Stop
+💮 Cabinet Battle #1
+💮 Say No To This
+💮 The Room Where It Happens
+💮 Washington On Your Side
+💮 We Know
+💮 Burn
+💮 The Election Of 1800
+💮 The World Was Wide Enough
+💮
 
 ## 🌸  Notas e créditos 🌸
 
